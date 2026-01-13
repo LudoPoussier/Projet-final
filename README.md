@@ -16,5 +16,5 @@ Rapport Power BI : Mobile_GameInAppPurchase25_vDef.pbix
 Tables Power BI : Table_Mobile_GameInAppPurchase25_vDef.csv / Table_TIC.xlsx / Table_GEO.xlsx
 
 ## Ouvrir le projet
-Charger le rapport et les tables PBI dans un répertoire
+Charger le rapport et les tables PBI dans un répertoire/n
 Ouvrir le .pbix avec Power BI Desktop
