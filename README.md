@@ -1,8 +1,10 @@
 # Projet Final Data Analyst 
 Analyse gamers et achats InApp
 
-## Objectif
-Analyser l'audience et les résultats des premiers mois d'exploitation de jeux sur terminaux mobiles édités par JESA Games (fictive)
+## Objectifs
+
+Analyser l'audience et les résultats financiers des premiers mois d'exploitation de jeux sur terminaux mobiles édités par JESA Games (fictive)
+Fournir des recommandations pour la croissance de l'entreprise.
 
 ## Technologies
 Power BI
