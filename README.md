@@ -3,7 +3,7 @@ Analyse gamers et achats InApp
 
 ## Objectifs
 
-Analyser l'audience et les résultats financiers des premiers mois d'exploitation de jeux sur terminaux mobiles édités par JESA Games (fictive)
+Analyser l'audience et les résultats financiers des premiers mois d'exploitation de jeux sur terminaux mobiles édités par JESA Games (fictive)<br>
 Fournir des recommandations pour la croissance de l'entreprise.
 
 ## Technologies
