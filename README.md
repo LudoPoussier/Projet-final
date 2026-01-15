@@ -7,7 +7,8 @@ Analyser l'audience et les résultats financiers des premiers mois d'exploitatio
 Fournir des recommandations pour la croissance de l'entreprise.
 
 ## Technologies
-Power BI
+Power BI<br>
+Excel
 
 ## Contenu
 Rapport_Mobile Game InApp Purchase 2025.pdf<br>
