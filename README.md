@@ -1,4 +1,4 @@
-# 📱 Analyse de Performance : Jeux Mobiles & Monétisation In-App (JESA Games)
+## 📱 Analyse de Performance : Jeux Mobiles & Monétisation In-App (JESA Games)
  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&am… ![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue?style=for-the-badge)
  
